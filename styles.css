@@ -261,6 +261,12 @@
     }
 
     .contact-card:hover { border-color: var(--brand); transform: translateY(-3px); }
+
+.location {
+  margin: 2rem 0 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
     .contact-card strong { display: block; margin: 0.85rem 0 0.25rem; font-size: 1.05rem; }
     .contact-card small { color: var(--muted); }
 
